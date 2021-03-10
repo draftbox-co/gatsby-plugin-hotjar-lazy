@@ -1,6 +1,6 @@
 {
   "name": "@draftbox-co/gatsby-plugin-hotjar-lazy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -12,9 +12,9 @@
     "@babel/runtime": "^7.10.5"
   },
   "peerDependencies": {
-    "gatsby": "2.20.24",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "gatsby": "^3.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "keywords": [
     "gatsby",
